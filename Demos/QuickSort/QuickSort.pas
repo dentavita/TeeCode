@@ -1,5 +1,3 @@
-{ QuickSort sorting algorithm implemented with TeeCode components }
-{ by @davidberneda  davidberneda@gmail.com                        }
 unit QuickSort;
 
 interface
